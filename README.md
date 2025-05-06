@@ -1,2 +1,2 @@
-# projeto-precisa-de-contribui-o
-contribuir com o projeto
+# Este projeto prejeto precisa de uma contribuição
+## Projeto: ainda não contribuido.
